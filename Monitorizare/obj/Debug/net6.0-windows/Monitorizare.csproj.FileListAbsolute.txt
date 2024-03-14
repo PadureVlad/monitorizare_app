@@ -1,0 +1,138 @@
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\Monitorizare.exe
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\Monitorizare.deps.json
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\Monitorizare.runtimeconfig.json
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\Monitorizare.dll
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\Monitorizare.pdb
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.Form1.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.Properties.Resources.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.dll
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\refint\Monitorizare.dll
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.pdb
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\ref\Monitorizare.dll
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.Forms.AdminForm.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.Forms.UserForm.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.Forms.RegisterForm.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.Forms.GuestForm.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.Forms.RestoreForm.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.csproj.CopyComplete
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.Forms.RestoreForm1.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.AdminForms.AddVehicule.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.AdminForms.AddVehiculeProblem.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.AdminForms.AddNivelCombustibil.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.AdminForms.AddVitezaVehicol.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.AdminForms.AddNrCalatori.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.AdminForms.AddPunctInteres.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.AdminForms.AddTimpSosireVehicol.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.AdminForms.AddZoneRisc.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.UserForms.MonitorizeazaNivelCombustibil.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.UserForms.MonitorizeazaVitezaVehicul.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.UserForms.ViewNumarPasageri.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.UserForms.ViewPuncteInteres.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.UserForms.ViewTimpSosire.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.UserForms.ViewTraseuUtilizat.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.UserForms.ViewVehiculeDisponibile.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.UserForms.ViewVehiculeProblemeTehnice.resources
+C:\Users\Vlad\Desktop\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.UserForms.ViewZoneRisc.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\Monitorizare.exe
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\Monitorizare.deps.json
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\Monitorizare.runtimeconfig.json
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\Monitorizare.dll
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\Monitorizare.pdb
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.csproj.AssemblyReference.cache
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.AdminForms.AddNivelCombustibil.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.AdminForms.AddNrCalatori.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.AdminForms.AddPunctInteres.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.AdminForms.AddTimpSosireVehicol.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.AdminForms.AddVehicule.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.AdminForms.AddVehiculeProblem.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.AdminForms.AddVitezaVehicol.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.AdminForms.AddZoneRisc.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.Form1.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.Forms.AdminForm.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.Forms.GuestForm.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.Forms.RegisterForm.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.Forms.RestoreForm.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.Forms.RestoreForm1.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.Forms.UserForm.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.Properties.Resources.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.UserForms.MonitorizeazaNivelCombustibil.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.UserForms.MonitorizeazaVitezaVehicul.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.UserForms.ViewNumarPasageri.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.UserForms.ViewPuncteInteres.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.UserForms.ViewTimpSosire.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.UserForms.ViewTraseuUtilizat.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.UserForms.ViewVehiculeDisponibile.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.UserForms.ViewVehiculeProblemeTehnice.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.UserForms.ViewZoneRisc.resources
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.csproj.GenerateResource.cache
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.AssemblyInfoInputs.cache
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.AssemblyInfo.cs
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.csproj.CoreCompileInputs.cache
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.csproj.CopyComplete
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.dll
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\refint\Monitorizare.dll
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.pdb
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\Monitorizare.genruntimeconfig.cache
+D:\Vlad\Anul III\Practica 2023\Biletul21\Monitorizare\obj\Debug\net6.0-windows\ref\Monitorizare.dll

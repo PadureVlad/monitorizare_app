@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminForms\AddNivelCombustibil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminForms\AddNrCalatori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminForms\AddPunctInteres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminForms\AddTimpSosireVehicol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminForms\AddVehicule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminForms\AddVehiculeProblem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminForms\AddVitezaVehicol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminForms\AddZoneRisc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\GuestForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RestoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RestoreForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\UserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\MonitorizeazaNivelCombustibil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\MonitorizeazaVitezaVehicul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\ViewNumarPasageri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\ViewPuncteInteres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\ViewTimpSosire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\ViewTraseuUtilizat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\ViewVehiculeDisponibile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\ViewVehiculeProblemeTehnice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\ViewZoneRisc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
